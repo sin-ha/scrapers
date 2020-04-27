@@ -32,7 +32,7 @@ class CountryscraperSpider(scrapy.Spider):
         s = living.replace(',', '')
         d = dead.replace(',', '')
         try:
-            results = int(s)+int(d)
+            results = str(int(s)+int(d))
         except:
             results = None
         yield {
