@@ -1,2 +1,2 @@
 # scrapers
-well scrapers generally scrape things ¯\\__(ツ)__/¯
+well scrapers generally scrape things ¯\\\_(ツ)\_/¯
