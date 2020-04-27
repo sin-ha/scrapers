@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><country>None</country><total_cases>None</total_cases><cases_having_results>None</cases_having_results><dead>None</dead><cured>None</cured></item>
+<item><country>None</country><total_cases>None</total_cases><cases_having_results>None</cases_having_results><dead>None</dead><cured>None</cured></item>
+<item><country>Norway</country><total_cases>7,554 </total_cases><cases_having_results>237</cases_having_results><dead>32</dead><cured>205</cured></item>
+<item><country>USA</country><total_cases>999,706 </total_cases><cases_having_results>193492</cases_having_results><dead>137,303</dead><cured>56,189</cured></item>
+<item><country>Philippines</country><total_cases>7,777 </total_cases><cases_having_results>1443</cases_having_results><dead>932</dead><cured>511</cured></item>
+<item><country>Indonesia</country><total_cases>9,096 </total_cases><cases_having_results>1916</cases_having_results><dead>1,151</dead><cured>765</cured></item>
+<item><country>S. Korea</country><total_cases>10,738 </total_cases><cases_having_results>9007</cases_having_results><dead>8,764</dead><cured>243</cured></item>
+<item><country>Ukraine</country><total_cases>9,009 </total_cases><cases_having_results>1084</cases_having_results><dead>864</dead><cured>220</cured></item>
+<item><country>Denmark</country><total_cases>8,698 </total_cases><cases_having_results>6386</cases_having_results><dead>5,959</dead><cured>427</cured></item>
+<item><country>Serbia</country><total_cases>8,275 </total_cases><cases_having_results>1371</cases_having_results><dead>1,209</dead><cured>162</cured></item>
+<item><country>UAE</country><total_cases>10,839 </total_cases><cases_having_results>2172</cases_having_results><dead>2,090</dead><cured>82</cured></item>
+<item><country>Belarus</country><total_cases>11,289 </total_cases><cases_having_results>1815</cases_having_results><dead>1,740</dead><cured>75</cured></item>
+<item><country>Pakistan</country><total_cases>13,915 </total_cases><cases_having_results>3321</cases_having_results><dead>3,029</dead><cured>292</cured></item>
+<item><country>China</country><total_cases>82,830 </total_cases><cases_having_results>82107</cases_having_results><dead>77,474</dead><cured>4,633</cured></item>
+<item><country>Japan</country><total_cases>13,441 </total_cases><cases_having_results>2181</cases_having_results><dead>1,809</dead><cured>372</cured></item>
+<item><country>Chile</country><total_cases>13,813 </total_cases><cases_having_results>7525</cases_having_results><dead>7,327</dead><cured>198</cured></item>
+<item><country>Qatar</country><total_cases>11,244 </total_cases><cases_having_results>1076</cases_having_results><dead>1,066</dead><cured>10</cured></item>
+<item><country>Caribbean Netherlands</country><total_cases>5 </total_cases><cases_having_results>0</cases_having_results><dead>0</dead><cured>0</cured></item>
+<item><country>Saint Pierre Miquelon</country><total_cases>1 </total_cases><cases_having_results>0</cases_having_results><dead>0</dead><cured>0</cured></item>
+<item><country>Sao Tome and Principe</country><total_cases>4 </total_cases><cases_having_results>0</cases_having_results><dead>0</dead><cured>0</cured></item>
+<item><country>Western Sahara</country><total_cases>6 </total_cases><cases_having_results>5</cases_having_results><dead>5</dead><cured>0</cured></item>
+<item><country>British Virgin Islands</country><total_cases>6 </total_cases><cases_having_results>4</cases_having_results><dead>3</dead><cured>1</cured></item>
+<item><country>South Sudan</country><total_cases>6 </total_cases><cases_having_results>0</cases_having_results><dead>0</dead><cured>0</cured></item>
+<item><country>Poland</country><total_cases>11,902 </total_cases><cases_having_results>3028</cases_having_results><dead>2,466</dead><cured>562</cured></item>
+<item><country>Romania</country><total_cases>11,339 </total_cases><cases_having_results>3782</cases_having_results><dead>3,141</dead><cured>641</cured></item>
+<item><country>Bhutan</country><total_cases>7 </total_cases><cases_having_results>4</cases_having_results><dead>4</dead><cured>0</cured></item>
+<item><country>Papua New Guinea</country><total_cases>8 </total_cases><cases_having_results>0</cases_having_results><dead>0</dead><cured>0</cured></item>
+<item><country>Gambia</country><total_cases>10 </total_cases><cases_having_results>9</cases_having_results><dead>8</dead><cured>1</cured></item>
+<item><country>Seychelles</country><total_cases>11 </total_cases><cases_having_results>6</cases_having_results><dead>6</dead><cured>0</cured></item>
+<item><country>Montserrat</country><total_cases>11 </total_cases><cases_having_results>3</cases_having_results><dead>2</dead><cured>1</cured></item>
+<item><country>Burundi</country><total_cases>11 </total_cases><cases_having_results>5</cases_having_results><dead>4</dead><cured>1</cured></item>
+<item><country>Suriname</country><total_cases>10 </total_cases><cases_having_results>8</cases_having_results><dead>7</dead><cured>1</cured></item>
+<item><country>Nicaragua</country><total_cases>13 </total_cases><cases_having_results>10</cases_having_results><dead>7</dead><cured>3</cured></item>
+<item><country>Falkland Islands</country><total_cases>13 </total_cases><cases_having_results>11</cases_having_results><dead>11</dead><cured>0</cured></item>
+<item><country>Saint Kitts and Nevis</country><total_cases>15 </total_cases><cases_having_results>2</cases_having_results><dead>2</dead><cured>0</cured></item>
+<item><country>Namibia</country><total_cases>16 </total_cases><cases_having_results>8</cases_having_results><dead>8</dead><cured>0</cured></item>
+<item><country>Turks and Caicos</country><total_cases>12 </total_cases><cases_having_results>6</cases_having_results><dead>5</dead><cured>1</cured></item>
+<item><country>Dominica</country><total_cases>16 </total_cases><cases_having_results>13</cases_having_results><dead>13</dead><cured>0</cured></item>
+<item><country>Vatican City</country><total_cases>9 </total_cases><cases_having_results>2</cases_having_results><dead>2</dead><cured>0</cured></item>
+<item><country>New Caledonia</country><total_cases>18 </total_cases><cases_having_results>17</cases_having_results><dead>17</dead><cured>0</cured></item>
+<item><country>Fiji</country><total_cases>18 </total_cases><cases_having_results>12</cases_having_results><dead>12</dead><cured>0</cured></item>
+<item><country>Grenada</country><total_cases>18 </total_cases><cases_having_results>7</cases_having_results><dead>7</dead><cured>0</cured></item>
+<item><country>Laos</country><total_cases>19 </total_cases><cases_having_results>7</cases_having_results><dead>7</dead><cured>0</cured></item>
+<item><country>Curaçao</country><total_cases>16 </total_cases><cases_having_results>12</cases_having_results><dead>11</dead><cured>1</cured></item>
+<item><country>Belize</country><total_cases>18 </total_cases><cases_having_results>8</cases_having_results><dead>6</dead><cured>2</cured></item>
+<item><country>St. Vincent Grenadines</country><total_cases>15 </total_cases><cases_having_results>5</cases_having_results><dead>5</dead><cured>0</cured></item>
+<item><country>Antigua and Barbuda</country><total_cases>24 </total_cases><cases_having_results>14</cases_having_results><dead>11</dead><cured>3</cured></item>
+<item><country>Timor-Leste</country><total_cases>24 </total_cases><cases_having_results>2</cases_having_results><dead>2</dead><cured>0</cured></item>
+<item><country>Botswana</country><total_cases>22 </total_cases><cases_having_results>1</cases_having_results><dead>0</dead><cured>1</cured></item>
+<item><country>Zimbabwe</country><total_cases>31 </total_cases><cases_having_results>9</cases_having_results><dead>5</dead><cured>4</cured></item>
+<item><country>Mongolia</country><total_cases>38 </total_cases><cases_having_results>10</cases_having_results><dead>10</dead><cured>0</cured></item>
+<item><country>Angola</country><total_cases>27 </total_cases><cases_having_results>8</cases_having_results><dead>6</dead><cured>2</cured></item>
+<item><country>Syria</country><total_cases>43 </total_cases><cases_having_results>17</cases_having_results><dead>14</dead><cured>3</cured></item>
+<item><country>Eritrea</country><total_cases>39 </total_cases><cases_having_results>13</cases_having_results><dead>13</dead><cured>0</cured></item>
+<item><country>Macao</country><total_cases>45 </total_cases><cases_having_results>32</cases_having_results><dead>32</dead><cured>0</cured></item>
+<item><country>CAR</country><total_cases>19 </total_cases><cases_having_results>10</cases_having_results><dead>10</dead><cured>0</cured></item>
+<item><country>Chad</country><total_cases>46 </total_cases><cases_having_results>15</cases_having_results><dead>15</dead><cured>0</cured></item>
+<item><country>Nepal</country><total_cases>52 </total_cases><cases_having_results>16</cases_having_results><dead>16</dead><cured>0</cured></item>
+<item><country>Benin</country><total_cases>64 </total_cases><cases_having_results>34</cases_having_results><dead>33</dead><cured>1</cured></item>
+<item><country>Saint Martin</country><total_cases>38 </total_cases><cases_having_results>27</cases_having_results><dead>24</dead><cured>3</cured></item>
+<item><country>Malawi</country><total_cases>36 </total_cases><cases_having_results>7</cases_having_results><dead>4</dead><cured>3</cured></item>
+<item><country>Cayman Islands</country><total_cases>70 </total_cases><cases_having_results>9</cases_having_results><dead>8</dead><cured>1</cured></item>
+<item><country>Guinea-Bissau</country><total_cases>73 </total_cases><cases_having_results>19</cases_having_results><dead>18</dead><cured>1</cured></item>
+<item><country>Haiti</country><total_cases>74 </total_cases><cases_having_results>13</cases_having_results><dead>7</dead><cured>6</cured></item>
+<item><country>French Polynesia</country><total_cases>57 </total_cases><cases_having_results>43</cases_having_results><dead>43</dead><cured>0</cured></item>
+<item><country>Sint Maarten</country><total_cases>74 </total_cases><cases_having_results>46</cases_having_results><dead>33</dead><cured>13</cured></item>
+<item><country>Mozambique</country><total_cases>76 </total_cases><cases_having_results>12</cases_having_results><dead>12</dead><cured>0</cured></item>
+<item><country>Libya</country><total_cases>61 </total_cases><cases_having_results>20</cases_having_results><dead>18</dead><cured>2</cured></item>
+<item><country>Uganda</country><total_cases>79 </total_cases><cases_having_results>46</cases_having_results><dead>46</dead><cured>0</cured></item>
+<item><country>Barbados</country><total_cases>79 </total_cases><cases_having_results>45</cases_having_results><dead>39</dead><cured>6</cured></item>
+<item><country>Eswatini</country><total_cases>65 </total_cases><cases_having_results>11</cases_having_results><dead>10</dead><cured>1</cured></item>
+<item><country>Bahamas</country><total_cases>80 </total_cases><cases_having_results>33</cases_having_results><dead>22</dead><cured>11</cured></item>
+<item><country>Liechtenstein</country><total_cases>82 </total_cases><cases_having_results>56</cases_having_results><dead>55</dead><cured>1</cured></item>
+<item><country>Sierra Leone</country><total_cases>93 </total_cases><cases_having_results>14</cases_having_results><dead>10</dead><cured>4</cured></item>
+<item><country>Guyana</country><total_cases>74 </total_cases><cases_having_results>20</cases_having_results><dead>12</dead><cured>8</cured></item>
+<item><country>Zambia</country><total_cases>88 </total_cases><cases_having_results>45</cases_having_results><dead>42</dead><cured>3</cured></item>
+<item><country>Togo</country><total_cases>98 </total_cases><cases_having_results>68</cases_having_results><dead>62</dead><cured>6</cured></item>
+<item><country>Monaco</country><total_cases>95 </total_cases><cases_having_results>46</cases_having_results><dead>42</dead><cured>4</cured></item>
+<item><country>Bermuda</country><total_cases>109 </total_cases><cases_having_results>45</cases_having_results><dead>39</dead><cured>6</cured></item>
+<item><country>Cabo Verde</country><total_cases>109 </total_cases><cases_having_results>2</cases_having_results><dead>1</dead><cured>1</cured></item>
+<item><country>Cambodia</country><total_cases>122 </total_cases><cases_having_results>119</cases_having_results><dead>119</dead><cured>0</cured></item>
+<item><country>Ethiopia</country><total_cases>124 </total_cases><cases_having_results>53</cases_having_results><dead>50</dead><cured>3</cured></item>
+<item><country>French Guiana</country><total_cases>111 </total_cases><cases_having_results>88</cases_having_results><dead>87</dead><cured>1</cured></item>
+<item><country>Liberia</country><total_cases>124 </total_cases><cases_having_results>37</cases_having_results><dead>25</dead><cured>12</cured></item>
+<item><country>Madagascar</country><total_cases>128 </total_cases><cases_having_results>75</cases_having_results><dead>75</dead><cured>0</cured></item>
+<item><country>Trinidad and Tobago</country><total_cases>116 </total_cases><cases_having_results>67</cases_having_results><dead>59</dead><cured>8</cured></item>
+<item><country>Brunei </country><total_cases>138 </total_cases><cases_having_results>125</cases_having_results><dead>124</dead><cured>1</cured></item>
+<item><country>Gibraltar</country><total_cases>141 </total_cases><cases_having_results>131</cases_having_results><dead>131</dead><cured>0</cured></item>
+<item><country>Guadeloupe</country><total_cases>149 </total_cases><cases_having_results>94</cases_having_results><dead>82</dead><cured>12</cured></item>
+<item><country>Myanmar</country><total_cases>146 </total_cases><cases_having_results>15</cases_having_results><dead>10</dead><cured>5</cured></item>
+<item><country>Gabon</country><total_cases>176 </total_cases><cases_having_results>33</cases_having_results><dead>30</dead><cured>3</cured></item>
+<item><country>Faeroe Islands</country><total_cases>187 </total_cases><cases_having_results>178</cases_having_results><dead>178</dead><cured>0</cured></item>
+<item><country>Aruba</country><total_cases>100 </total_cases><cases_having_results>75</cases_having_results><dead>73</dead><cured>2</cured></item>
+<item><country>Congo</country><total_cases>200 </total_cases><cases_having_results>25</cases_having_results><dead>19</dead><cured>6</cured></item>
+<item><country>Rwanda</country><total_cases>207 </total_cases><cases_having_results>93</cases_having_results><dead>93</dead><cured>0</cured></item>
+<item><country>Maldives</country><total_cases>226 </total_cases><cases_having_results>17</cases_having_results><dead>17</dead><cured>0</cured></item>
+<item><country>Vietnam</country><total_cases>270 </total_cases><cases_having_results>225</cases_having_results><dead>225</dead><cured>0</cured></item>
+<item><country>Equatorial Guinea</country><total_cases>258 </total_cases><cases_having_results>9</cases_having_results><dead>8</dead><cured>1</cured></item>
+<item><country>Sudan</country><total_cases>275 </total_cases><cases_having_results>43</cases_having_results><dead>21</dead><cured>22</cured></item>
+<item><country>Martinique</country><total_cases>175 </total_cases><cases_having_results>91</cases_having_results><dead>77</dead><cured>14</cured></item>
+<item><country>Montenegro</country><total_cases>321 </total_cases><cases_having_results>196</cases_having_results><dead>189</dead><cured>7</cured></item>
+<item><country>Tanzania</country><total_cases>299 </total_cases><cases_having_results>58</cases_having_results><dead>48</dead><cured>10</cured></item>
+<item><country>Isle of Man</country><total_cases>308 </total_cases><cases_having_results>268</cases_having_results><dead>248</dead><cured>20</cured></item>
+<item><country>Mauritius</country><total_cases>334 </total_cases><cases_having_results>312</cases_having_results><dead>302</dead><cured>10</cured></item>
+<item><country>Venezuela</country><total_cases>325 </total_cases><cases_having_results>147</cases_having_results><dead>137</dead><cured>10</cured></item>
+<item><country>Jamaica</country><total_cases>350 </total_cases><cases_having_results>35</cases_having_results><dead>28</dead><cured>7</cured></item>
+<item><country>Palestine</country><total_cases>342 </total_cases><cases_having_results>85</cases_having_results><dead>83</dead><cured>2</cured></item>
+<item><country>Kenya</country><total_cases>363 </total_cases><cases_having_results>128</cases_having_results><dead>114</dead><cured>14</cured></item>
+<item><country>Mali</country><total_cases>389 </total_cases><cases_having_results>135</cases_having_results><dead>112</dead><cured>23</cured></item>
+<item><country>Paraguay</country><total_cases>228 </total_cases><cases_having_results>102</cases_having_results><dead>93</dead><cured>9</cured></item>
+<item><country>Réunion</country><total_cases>417 </total_cases><cases_having_results>300</cases_having_results><dead>300</dead><cured>0</cured></item>
+<item><country>Mayotte</country><total_cases>401 </total_cases><cases_having_results>148</cases_having_results><dead>144</dead><cured>4</cured></item>
+<item><country>Taiwan</country><total_cases>429 </total_cases><cases_having_results>296</cases_having_results><dead>290</dead><cured>6</cured></item>
+<item><country>Jordan</country><total_cases>449 </total_cases><cases_having_results>349</cases_having_results><dead>342</dead><cured>7</cured></item>
+<item><country>Somalia</country><total_cases>480 </total_cases><cases_having_results>36</cases_having_results><dead>10</dead><cured>26</cured></item>
+<item><country>El Salvador</country><total_cases>323 </total_cases><cases_having_results>97</cases_having_results><dead>89</dead><cured>8</cured></item>
+<item><country>Malta</country><total_cases>450 </total_cases><cases_having_results>290</cases_having_results><dead>286</dead><cured>4</cured></item>
+<item><country>Georgia</country><total_cases>496 </total_cases><cases_having_results>155</cases_having_results><dead>149</dead><cured>6</cured></item>
+<item><country>DRC</country><total_cases>459 </total_cases><cases_having_results>78</cases_having_results><dead>50</dead><cured>28</cured></item>
+<item><country>Guatemala</country><total_cases>500 </total_cases><cases_having_results>64</cases_having_results><dead>49</dead><cured>15</cured></item>
+<item><country>San Marino</country><total_cases>538 </total_cases><cases_having_results>105</cases_having_results><dead>64</dead><cured>41</cured></item>
+<item><country>Burkina Faso</country><total_cases>632 </total_cases><cases_having_results>495</cases_having_results><dead>453</dead><cured>42</cured></item>
+<item><country>Sri Lanka</country><total_cases>588 </total_cases><cases_having_results>133</cases_having_results><dead>126</dead><cured>7</cured></item>
+<item><country>Uruguay</country><total_cases>606 </total_cases><cases_having_results>390</cases_having_results><dead>375</dead><cured>15</cured></item>
+<item><country>Honduras</country><total_cases>661 </total_cases><cases_having_results>140</cases_having_results><dead>79</dead><cured>61</cured></item>
+<item><country>Kyrgyzstan</country><total_cases>695 </total_cases><cases_having_results>403</cases_having_results><dead>395</dead><cured>8</cured></item>
+<item><country>Channel Islands</country><total_cases>525 </total_cases><cases_having_results>367</cases_having_results><dead>332</dead><cured>35</cured></item>
+<item><country>Niger</country><total_cases>696 </total_cases><cases_having_results>379</cases_having_results><dead>350</dead><cured>29</cured></item>
+<item><country>Lebanon</country><total_cases>710 </total_cases><cases_having_results>169</cases_having_results><dead>145</dead><cured>24</cured></item>
+<item><country>Senegal</country><total_cases>736 </total_cases><cases_having_results>293</cases_having_results><dead>284</dead><cured>9</cured></item>
+<item><country>Albania</country><total_cases>736 </total_cases><cases_having_results>450</cases_having_results><dead>422</dead><cured>28</cured></item>
+<item><country>Andorra</country><total_cases>738 </total_cases><cases_having_results>384</cases_having_results><dead>344</dead><cured>40</cured></item>
+<item><country>Costa Rica</country><total_cases>697 </total_cases><cases_having_results>293</cases_having_results><dead>287</dead><cured>6</cured></item>
+<item><country>Cyprus</country><total_cases>822 </total_cases><cases_having_results>163</cases_having_results><dead>148</dead><cured>15</cured></item>
+<item><country>Tunisia</country><total_cases>949 </total_cases><cases_having_results>254</cases_having_results><dead>216</dead><cured>38</cured></item>
+<item><country>Djibouti</country><total_cases>1,035 </total_cases><cases_having_results>479</cases_having_results><dead>477</dead><cured>2</cured></item>
+<item><country>Guinea</country><total_cases>1,163 </total_cases><cases_having_results>253</cases_having_results><dead>246</dead><cured>7</cured></item>
+<item><country>Latvia</country><total_cases>818 </total_cases><cases_having_results>280</cases_having_results><dead>267</dead><cured>13</cured></item>
+<item><country>Bolivia</country><total_cases>950 </total_cases><cases_having_results>130</cases_having_results><dead>80</dead><cured>50</cured></item>
+<item><country>Hong Kong</country><total_cases>1,038 </total_cases><cases_having_results>791</cases_having_results><dead>787</dead><cured>4</cured></item>
+<item><country>Ivory Coast</country><total_cases>1,150 </total_cases><cases_having_results>482</cases_having_results><dead>468</dead><cured>14</cured></item>
+<item><country>Slovakia</country><total_cases>1,381 </total_cases><cases_having_results>421</cases_having_results><dead>403</dead><cured>18</cured></item>
+<item><country>Cuba</country><total_cases>1,389 </total_cases><cases_having_results>581</cases_having_results><dead>525</dead><cured>56</cured></item>
+<item><country>North Macedonia</country><total_cases>1,399 </total_cases><cases_having_results>618</cases_having_results><dead>553</dead><cured>65</cured></item>
+<item><country>Bulgaria</country><total_cases>1,363 </total_cases><cases_having_results>264</cases_having_results><dead>206</dead><cured>58</cured></item>
+<item><country>Lithuania</country><total_cases>1,449 </total_cases><cases_having_results>515</cases_having_results><dead>474</dead><cured>41</cured></item>
+<item><country>New Zealand</country><total_cases>1,469 </total_cases><cases_having_results>1199</cases_having_results><dead>1,180</dead><cured>19</cured></item>
+<item><country>Slovenia</country><total_cases>1,402 </total_cases><cases_having_results>304</cases_having_results><dead>221</dead><cured>83</cured></item>
+<item><country>Ghana</country><total_cases>1,550 </total_cases><cases_having_results>166</cases_having_results><dead>155</dead><cured>11</cured></item>
+<item><country>Cameroon</country><total_cases>1,621 </total_cases><cases_having_results>842</cases_having_results><dead>786</dead><cured>56</cured></item>
+<item><country>Bosnia and Herzegovina</country><total_cases>1,565 </total_cases><cases_having_results>719</cases_having_results><dead>659</dead><cured>60</cured></item>
+<item><country>Nigeria</country><total_cases>1,273 </total_cases><cases_having_results>279</cases_having_results><dead>239</dead><cured>40</cured></item>
+<item><country>Azerbaijan</country><total_cases>1,678 </total_cases><cases_having_results>1184</cases_having_results><dead>1,162</dead><cured>22</cured></item>
+<item><country>Afghanistan</country><total_cases>1,703 </total_cases><cases_having_results>277</cases_having_results><dead>220</dead><cured>57</cured></item>
+<item><country>Uzbekistan</country><total_cases>1,904 </total_cases><cases_having_results>900</cases_having_results><dead>892</dead><cured>8</cured></item>
+<item><country>Croatia</country><total_cases>2,039 </total_cases><cases_having_results>1225</cases_having_results><dead>1,166</dead><cured>59</cured></item>
+<item><country>Greece</country><total_cases>2,534 </total_cases><cases_having_results>713</cases_having_results><dead>577</dead><cured>136</cured></item>
+<item><country>Oman</country><total_cases>2,049 </total_cases><cases_having_results>374</cases_having_results><dead>364</dead><cured>10</cured></item>
+<item><country>Iraq</country><total_cases>1,847 </total_cases><cases_having_results>1374</cases_having_results><dead>1,286</dead><cured>88</cured></item>
+<item><country>Kazakhstan</country><total_cases>2,835 </total_cases><cases_having_results>745</cases_having_results><dead>720</dead><cured>25</cured></item>
+<item><country>Hungary</country><total_cases>2,583 </total_cases><cases_having_results>778</cases_having_results><dead>498</dead><cured>280</cured></item>
+<item><country>Estonia</country><total_cases>1,647 </total_cases><cases_having_results>283</cases_having_results><dead>233</dead><cured>50</cured></item>
+<item><country>Bahrain</country><total_cases>2,723 </total_cases><cases_having_results>1226</cases_having_results><dead>1,218</dead><cured>8</cured></item>
+<item><country>Armenia</country><total_cases>1,808 </total_cases><cases_having_results>877</cases_having_results><dead>848</dead><cured>29</cured></item>
+<item><country>Thailand</country><total_cases>2,931 </total_cases><cases_having_results>2661</cases_having_results><dead>2,609</dead><cured>52</cured></item>
+<item><country>Iceland</country><total_cases>1,792 </total_cases><cases_having_results>1618</cases_having_results><dead>1,608</dead><cured>10</cured></item>
+<item><country>Kuwait</country><total_cases>3,288 </total_cases><cases_having_results>1034</cases_having_results><dead>1,012</dead><cured>22</cured></item>
+<item><country>Moldova</country><total_cases>3,481 </total_cases><cases_having_results>1027</cases_having_results><dead>925</dead><cured>102</cured></item>
+<item><country>South Africa</country><total_cases>4,546 </total_cases><cases_having_results>1560</cases_having_results><dead>1,473</dead><cured>87</cured></item>
+<item><country>Egypt</country><total_cases>4,782 </total_cases><cases_having_results>1573</cases_having_results><dead>1,236</dead><cured>337</cured></item>
+<item><country>Argentina</country><total_cases>3,892 </total_cases><cases_having_results>1332</cases_having_results><dead>1,140</dead><cured>192</cured></item>
+<item><country>Luxembourg</country><total_cases>3,729 </total_cases><cases_having_results>3211</cases_having_results><dead>3,123</dead><cured>88</cured></item>
+<item><country>Algeria</country><total_cases>3,517 </total_cases><cases_having_results>1990</cases_having_results><dead>1,558</dead><cured>432</cured></item>
+<item><country>Morocco</country><total_cases>4,120 </total_cases><cases_having_results>857</cases_having_results><dead>695</dead><cured>162</cured></item>
+<item><country>Finland</country><total_cases>4,695 </total_cases><cases_having_results>2693</cases_having_results><dead>2,500</dead><cured>193</cured></item>
+<item><country>Panama</country><total_cases>5,779 </total_cases><cases_having_results>534</cases_having_results><dead>369</dead><cured>165</cured></item>
+<item><country>Colombia</country><total_cases>5,379 </total_cases><cases_having_results>1377</cases_having_results><dead>1,133</dead><cured>244</cured></item>
+<item><country>Bangladesh</country><total_cases>5,913 </total_cases><cases_having_results>283</cases_having_results><dead>131</dead><cured>152</cured></item>
+<item><country>Singapore</country><total_cases>14,423 </total_cases><cases_having_results>1109</cases_having_results><dead>1,095</dead><cured>14</cured></item>
+<item><country>Dominican Republic</country><total_cases>6,293 </total_cases><cases_having_results>1275</cases_having_results><dead>993</dead><cured>282</cured></item>
+<item><country>Czechia</country><total_cases>7,431 </total_cases><cases_having_results>3048</cases_having_results><dead>2,826</dead><cured>222</cured></item>
+<item><country>Malaysia</country><total_cases>5,820 </total_cases><cases_having_results>4056</cases_having_results><dead>3,957</dead><cured>99</cured></item>
+<item><country>Australia</country><total_cases>6,720 </total_cases><cases_having_results>5669</cases_having_results><dead>5,586</dead><cured>83</cured></item>
+<item><country>Mexico</country><total_cases>14,677 </total_cases><cases_having_results>9705</cases_having_results><dead>8,354</dead><cured>1,351</cured></item>
+<item><country>Israel</country><total_cases>15,466 </total_cases><cases_having_results>6998</cases_having_results><dead>6,796</dead><cured>202</cured></item>
+<item><country>Sweden</country><total_cases>18,926 </total_cases><cases_having_results>3279</cases_having_results><dead>1,005</dead><cured>2,274</cured></item>
+<item><country>Austria</country><total_cases>15,274 </total_cases><cases_having_results>12911</cases_having_results><dead>12,362</dead><cured>549</cured></item>
+<item><country>Ireland</country><total_cases>19,648 </total_cases><cases_having_results>10335</cases_having_results><dead>9,233</dead><cured>1,102</cured></item>
+<item><country>Saudi Arabia</country><total_cases>18,811 </total_cases><cases_having_results>2675</cases_having_results><dead>2,531</dead><cured>144</cured></item>
+<item><country>Portugal</country><total_cases>24,027 </total_cases><cases_having_results>2285</cases_having_results><dead>1,357</dead><cured>928</cured></item>
+<item><country>India</country><total_cases>28,380 </total_cases><cases_having_results>7409</cases_having_results><dead>6,523</dead><cured>886</cured></item>
+<item><country>Peru</country><total_cases>28,699 </total_cases><cases_having_results>9207</cases_having_results><dead>8,425</dead><cured>782</cured></item>
+<item><country>Ecuador</country><total_cases>22,719 </total_cases><cases_having_results>1942</cases_having_results><dead>1,366</dead><cured>576</cured></item>
+<item><country>Switzerland</country><total_cases>29,164 </total_cases><cases_having_results>23440</cases_having_results><dead>21,800</dead><cured>1,640</cured></item>
+<item><country>Canada</country><total_cases>48,229 </total_cases><cases_having_results>20617</cases_having_results><dead>17,916</dead><cured>2,701</cured></item>
+<item><country>Brazil</country><total_cases>63,328 </total_cases><cases_having_results>34450</cases_having_results><dead>30,152</dead><cured>4,298</cured></item>
+<item><country>Russia</country><total_cases>87,147 </total_cases><cases_having_results>8140</cases_having_results><dead>7,346</dead><cured>794</cured></item>
+<item><country>Netherlands</country><total_cases>38,245 </total_cases><cases_having_results>None</cases_having_results><dead>N/A</dead><cured>4,518</cured></item>
+<item><country>Turkey</country><total_cases>112,261 </total_cases><cases_having_results>36691</cases_having_results><dead>33,791</dead><cured>2,900</cured></item>
+<item><country>UK</country><total_cases>157,149 </total_cases><cases_having_results>None</cases_having_results><dead>N/A</dead><cured>21,092</cured></item>
+<item><country>Belgium</country><total_cases>46,687 </total_cases><cases_having_results>18085</cases_having_results><dead>10,878</dead><cured>7,207</cured></item>
+<item><country>Iran</country><total_cases>91,472 </total_cases><cases_having_results>76739</cases_having_results><dead>70,933</dead><cured>5,806</cured></item>
+<item><country>Spain</country><total_cases>229,422 </total_cases><cases_having_results>144353</cases_having_results><dead>120,832</dead><cured>23,521</cured></item>
+<item><country>Germany</country><total_cases>158,213 </total_cases><cases_having_results>120521</cases_having_results><dead>114,500</dead><cured>6,021</cured></item>
+<item><country>France</country><total_cases>165,842 </total_cases><cases_having_results>68806</cases_having_results><dead>45,513</dead><cured>23,293</cured></item>
+<item><country>Italy</country><total_cases>199,414 </total_cases><cases_having_results>93601</cases_having_results><dead>66,624</dead><cured>26,977</cured></item>
+</items>
