@@ -5,4 +5,8 @@ present scrapers generally are to scrape out datasets,
 
 use scrapy to scrape the pages.
 
+
 supports world population data from worldometers.
+
+
+Currently datatset on covid is available.
